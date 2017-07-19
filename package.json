@@ -1,0 +1,22 @@
+{
+  "name": "jsonwhoisapi",
+  "description": "Node.js client for the jsonWHOISAPI service",
+  "homepage": "https://github.com/mike-feldmeier/jsonwhoisapi",
+  "bugs": "https://github.com/mike-feldmeier/jsonwhoisapi/issues",
+  "author": "Mike Feldmeier <mike.feldmeier@gmail.com> (http://www.mikefeldmeier.com)",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "whois",
+    "json",
+    "service"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mike-feldmeier/jswhoisapi.git"
+  },
+  "dependencies": {
+    "unirest": "^0.5.1"
+  },
+  "main": "index"
+}
